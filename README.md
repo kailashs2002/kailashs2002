@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I'm Kailash Seshadri, a student at the University of Alberta pursuing a Bachelor of Science (Hons) in Computing Science!
+
+I'm interested in working on data analytics with machine learning and would love to learn more about DevOps and MLOps. 
+
+
 <!--
 **kailashs2002/kailashs2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
