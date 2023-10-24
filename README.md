@@ -2,7 +2,11 @@
 
 I'm Kailash Seshadri, a student at the University of Alberta pursuing a Bachelor of Science (Hons) in Computing Science!
 
-I'm interested in working on data analytics with machine learning and would love to learn more about DevOps and MLOps. 
+I'm interested in working on data analytics with machine learning and want to explore the applications of machine learning in banking and finance
+
+- 🌱 I’m currently learning containerization using Docker
+- 🤔 I’m looking for help with DevOps and MLops toolkits
+- 📫 Email me at kailash@ualberta.ca
 
 
 <!--
